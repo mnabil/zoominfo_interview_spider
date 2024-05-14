@@ -1,9 +1,6 @@
-import networkx as nx
 import json
 from scrapy import Request, Spider
 from scrapy.http import Response
-import matplotlib.pyplot as plt
-import networkx as nx
 import numpy as np
 
 
