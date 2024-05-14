@@ -10,7 +10,7 @@ pip install -r requirements.txt
 
 ```bash
 #specify your Search Letter and items, logfile output file
-scrapy crawl cp_search_spider -a startswith='X' -O items.json --logfile output.log
+scrapy crawl company_search_spider -a startswith='X' -O items.json --logfile output.log
 ```
 <br>
 
